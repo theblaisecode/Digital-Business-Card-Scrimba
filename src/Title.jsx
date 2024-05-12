@@ -1,7 +1,7 @@
 export default function Title() {
   return (
     <div className="title">
-      <h1>Blaise Nwachukuw</h1>
+      <h1>Blaise Nwachukwu</h1>
       <span>Frontend Developer</span>
       <small>
         <a
