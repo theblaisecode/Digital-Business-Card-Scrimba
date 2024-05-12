@@ -60,16 +60,26 @@ a {
   gap: 1.5rem;
 }
 
-.email a {
+.email {
   color: var(--card-color);
+  background: var(--text-color);
+  transition: 0.4s;
+}
+
+.email:hover {
+  background: #cfcfcf;
+  transition: all 0.4s;
 }
 
 .linkedin {
+  color: var(--text-color);
   background: var(--linkedin);
+  transition: 0.4s;
 }
 
-.linkedin a {
-  color: var(--text-color);
+.linkedin:hover {
+  background: #3e7abe;
+  transition: all 0.4s;
 }
 
 .title {
@@ -105,7 +115,7 @@ a {
   gap: 1.5rem;
 }
 
-button {
+.btn {
   padding: 0.8rem 1.2rem;
   font-size: 0.9rem;
   border-radius: 0.5rem;
@@ -117,7 +127,7 @@ button {
   cursor: pointer;
 }
 
-button i {
+.btn i {
   font-size: 1rem;
   margin-right: 0.5rem;
 }
