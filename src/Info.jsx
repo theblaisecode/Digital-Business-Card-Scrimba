@@ -15,9 +15,8 @@ export default function Info() {
         <h2>Interests</h2>
 
         <p>
-          Reader. Writer. Animal lover. I like to explore and learn new things.
-          I create and code with passion. I think and reflect with curiosity. I
-          LOVE Food.
+          Reader. Gamer. Anime lover. I enjoy learning new things.
+          I create and code with passion. I think and reflect with curiosity. I love puzzles.
         </p>
       </div>
     </div>

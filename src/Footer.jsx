@@ -31,6 +31,15 @@ export default function Footer() {
 
         <li>
           <a
+            href="https://codepen.io/theblaisecode"
+            target="_blank"
+            aria-label="Link to TheBlaiseCode codpen">
+            <i className="fa-brands fa-square-codepen"></i>
+          </a>
+        </li>
+
+        <li>
+          <a
             href="https://instagram.com/theblaisecode"
             target="_blank"
             aria-label="Link to TheBlaiseCode linkedin">
