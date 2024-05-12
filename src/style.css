@@ -60,9 +60,16 @@ a {
   gap: 1.5rem;
 }
 
+.email a {
+  color: var(--card-color);
+}
+
 .linkedin {
-  color: var(--text-color);
   background: var(--linkedin);
+}
+
+.linkedin a {
+  color: var(--text-color);
 }
 
 .title {
@@ -131,7 +138,7 @@ button i {
 .info p {
   font-size: 0.7rem;
   color: var(--description);
-  margin-top: .4rem;
+  margin-top: 0.4rem;
 }
 
 footer {

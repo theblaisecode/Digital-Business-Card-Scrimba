@@ -22,19 +22,19 @@ export default function Footer() {
 
         <li>
           <a
-            href="https://github.com/theblaisecode"
+            href="https://codepen.io/theblaisecode"
             target="_blank"
-            aria-label="Link to TheBlaiseCode github">
-            <i className="fa-brands fa-square-github"></i>
+            aria-label="Link to TheBlaiseCode codpen">
+            <i className="fa-brands fa-codepen"></i>
           </a>
         </li>
 
         <li>
           <a
-            href="https://codepen.io/theblaisecode"
+            href="https://github.com/theblaisecode"
             target="_blank"
-            aria-label="Link to TheBlaiseCode codpen">
-            <i className="fa-brands fa-square-codepen"></i>
+            aria-label="Link to TheBlaiseCode github">
+            <i className="fa-brands fa-square-github"></i>
           </a>
         </li>
 
