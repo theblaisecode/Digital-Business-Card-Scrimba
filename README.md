@@ -1,8 +1,25 @@
-# React + Vite
+# Digital Business Card - Scrimba
+Simple practice project using ReactJS & Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Website - https://theblaisecode.github.io/Digital-Business-Card-Scrimba/
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## The Result
+![Digital-Business-Card-Scrimba](https://github.com/theblaisecode/Digital-Business-Card-Scrimba/assets/89015653/3545ed65-076b-4429-a845-3a78569d3c45)
+
+<br/>
+
+## Tech Stack
+
+- ReactJS
+- Vite
+
+<br/>
+
+## Authors
+
+- GitHub - [@theblaisecode](https://github.com/theblaisecode)
+- Twitter - [@theblaisecode](https://twitter.com/theblaisecode)
+- LinkedIn - [@theblaisecode](https://www.linkedin.com/in/theblaisecode)
+- Portfolio - [theblaisecode.netlify.app/](https://theblaisecode.netlify.app/)
